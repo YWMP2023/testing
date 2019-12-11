@@ -3,4 +3,4 @@ Test
 Test
 !
 !
-CALL dontCreateBug()
+CALL dontCreateBug(zeta)
